@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Picture Perfect",
+  "base_artist": "Monkey Majik + m-flo",
+  "createdAt": "2026-03-24T23:20:02.752740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Picture Perfect Morning",
+      "artist": "Edie Brickell",
+      "has_synced": true,
+      "path": "select/01_Picture_Perfect_Morning_Edie_Brickell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Skylar Grey",
+      "has_synced": true,
+      "path": "select/02_Picture_Perfect_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Blake Babies",
+      "has_synced": false,
+      "path": "select/03_Picture_Perfect_Blake_Babies.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/04_Picture_Perfect_Nelly_Furtado.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids",
+      "artist": "Streetlight Manifesto",
+      "has_synced": true,
+      "path": "select/05_They_Provide_the_Paint_for_the_Picture-Perfect_Masterpiece_That_You_Will_Paint_o_Streetlight_Manifesto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/06_Picture_Perfect_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Picture Perfect (Remix)",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/07_Picture_Perfect_(Remix)_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Escape the Fate",
+      "has_synced": true,
+      "path": "select/08_Picture_Perfect_Escape_the_Fate.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Stray from the Path",
+      "has_synced": false,
+      "path": "select/09_Picture_Perfect_Stray_from_the_Path.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Picture Perfect, Pathetic",
+      "artist": "Parkway Drive",
+      "has_synced": false,
+      "path": "select/10_Picture_Perfect,_Pathetic_Parkway_Drive.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Lillian Axe",
+      "has_synced": false,
+      "path": "select/11_Picture_Perfect_Lillian_Axe.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Chris Brown feat. will.i.am",
+      "has_synced": true,
+      "path": "select/12_Picture_Perfect_Chris_Brown_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Picture Perfect Wannabe",
+      "artist": "Denver Harbor",
+      "has_synced": false,
+      "path": "select/13_Picture_Perfect_Wannabe_Denver_Harbor.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Angela Vía",
+      "has_synced": false,
+      "path": "select/14_Picture_Perfect_Angela_Vía.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "Sevendust",
+      "has_synced": true,
+      "path": "select/15_Picture_Perfect_Sevendust.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Picture Perfect",
+      "artist": "SOiL",
+      "has_synced": true,
+      "path": "select/16_Picture_Perfect_SOiL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Picture Perfect",
+      "artist": "Monkey Majik + m-flo",
+      "has_synced": false,
+      "path": "select/pl_01_Picture_Perfect_Monkey_Majik_+_m-flo.txt"
+    }
+  ]
+}
